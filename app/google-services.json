@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295398932062",
+    "project_id": "financialapp-b3c01",
+    "storage_bucket": "financialapp-b3c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295398932062:android:8dbaf7f7449d98205c7ecf",
+        "android_client_info": {
+          "package_name": "br.com.smartjob.financialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295398932062-0i066r01al4692u565kn6ddvef0fpb1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLFu-utK35wXpoP-xctM_yVmKuTEhmAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295398932062-0i066r01al4692u565kn6ddvef0fpb1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

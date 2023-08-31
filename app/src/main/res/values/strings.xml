@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Financial App</string>
+
+    <string name="title_create_client">Cadastrar Cliente</string>
+    <string name="hint_client_name">Nome do Cliente</string>
+    <string name="hint_client_description">Alguma informação que ajude a identificar o cliente</string>
+    <string name="btn_create_client">Cadastrar</string>
+
+
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in_short">Fazer Login</string>
+
+    <string name="action_sign_in">Sign in or register</string>
+
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="btn_main_create_client">Cadastrar Cliente</string>
+    <string name="btn_main_create_personal">Dados do Cartão</string>
+    <string name="btn_main_register_purchases">Compras</string>
+    <string name="btn_main_register_payments">Pagamentos</string>
+    <string name="title_personal_data">Dados do cartão</string>
+    <string name="hint_edit_card_due_date">Dia de vencimento do cartão</string>
+    <string name="hint_card_description">Descrição do cartão. Ex: Bradesco Visa</string>
+    <string name="btn_save_card">Cadastrar dados</string>
+</resources>
